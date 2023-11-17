@@ -1,6 +1,6 @@
 # DatabaseApplication
 
-Per lanciare il progetto via API basta fare lo start del progetto e viene lanciato Swagger. 
+Per lanciare il progetto via API basta fare lo start del progetto "RestAPI" e viene lanciato Swagger. 
 
 Il progetto TestApplication racchiude tutti i test in NUnit, possono essere lanciati da Text Explorer di VS. 
 
